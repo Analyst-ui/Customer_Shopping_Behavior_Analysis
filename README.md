@@ -56,73 +56,63 @@ Microsoft Power BI
 
 ### Methods
 
-1️⃣ Data Cleaning & Preparation (Python)
+1️⃣ Data Cleaning & Preparation (Python):
 
-Imported and explored the dataset
+-Imported and explored the dataset
 
-Checked data quality and summary statistics
+-Checked data quality and summary statistics
 
-Handled missing values in the Review Rating column using median imputation by product category
+-Handled missing values in the Review Rating column using median imputation by product category
 
-Renamed columns using snake_case
+-Renamed columns using snake case
 
-Performed feature engineering by creating:
+-Performed feature engineering by creating age_group column by binning customer ages, purchase_frequency_days column from purchase data.
 
-Age Groups
+-Removed redundant columns
 
-Purchase Frequency
+-Performed database integration by connecting python script to PostgreSQL and loaded the cleaned dataset into PostgreSQL for further analysis.
 
-Removed redundant columns
-
-Loaded the cleaned dataset into PostgreSQL for further analysis.
-
-2️⃣ SQL Business Analysis
+2️⃣ SQL Business Analysis:
 
 Performed SQL queries to answer business questions, including:
 
-Revenue by Gender
+-Revenue by Gender
 
-High-Spending Discount Users
+-High-Spending Discount Users
 
-Top-Rated Products
+-Top-Rated Products
 
-Shipping Type Comparison
+-Shipping Type Comparison
 
-Subscriber vs Non-Subscriber Analysis
+-Subscriber vs Non-Subscriber Analysis
 
-Discount-Dependent Products
+-Discount-Dependent Products
 
-Customer Segmentation
+-Customer Segmentation
 
-Top Products by Category
+-Top Products by Category
 
-Repeat Buyer Analysis
+-Repeat Buyer Analysis
 
-Revenue by Age Group
+-Revenue by Age Group
 
-3️⃣ Dashboard Development (Power BI)
+3️⃣ Dashboard Development (Power BI):
 
 Created an interactive dashboard to visualize:
 
-Revenue Performance
+-Revenue Performance
 
-Customer Segmentation
+-Customer Segmentation
 
-Subscription Analysis
+-Subscription Analysis
 
-Product Performance
+-Product Performance
 
-Discount Analysis
+-Shipping Preferences
 
-Purchase Trends
+-Age Group Analysis
 
-Shipping Preferences
-
-Customer Demographics
-
-Age Group Analysis
-
-KPIs and Interactive Filters
+-KPIs and Interactive Filters
 
 
 ### Key Insights
@@ -210,40 +200,32 @@ Interact with the dashboard using filters and slicers.
 
 ### Results & Conclusion
 
-This project demonstrates a complete end-to-end data analytics workflow using Python, PostgreSQL, and Microsoft Power BI.
+This project demonstrates a complete end-to-end data analytics workflow using Python, SQL, and Microsoft Power BI.
 
 By combining data preprocessing, SQL-based business analysis, and interactive dashboard development, the project converts raw customer transaction data into actionable business insights.
 
 The analysis enables businesses to:
 
-Understand customer purchasing behavior
+-Understand customer purchasing behavior
 
-Improve customer retention
+-Improve customer retention
 
-Optimize marketing strategies
+-Optimize marketing strategies
 
-Increase subscription adoption
+-Increase subscription adoption
 
-Enhance product positioning
+-Enhance product positioning
 
-Support data-driven decision-making
+-Support data-driven decision-making
 
 
 ### Future Work
-
-Develop customer lifetime value (CLV) models.
 
 Build machine learning models for purchase prediction.
 
 Forecast future sales trends.
 
 Create recommendation systems for personalized shopping.
-
-Integrate real-time transactional databases.
-
-Deploy dashboards to the Power BI Service with automated refresh.
-
-Build customer churn prediction models.
 
 
 ### Author
@@ -258,6 +240,6 @@ Python, SQL, Microsoft Power BI,Exploratory Data Analysis (EDA),Excel
 
 ### Contact
 
-LinkedIn : (Add your LinkedIn profile URL)
+LinkedIn : linkedin.com/in/nimishatripathy
 
 Email : n.tripathy200@gmail.com
