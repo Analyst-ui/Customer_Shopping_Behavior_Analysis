@@ -48,7 +48,9 @@ Missing Data: 37 values in Review Rating column
 ### Tools & Technologies
 
 Python(Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy)
-PostgreSQL (SQL)
+
+SQL (PostgreSQL)
+
 Microsoft Power BI
 
 
@@ -125,62 +127,48 @@ KPIs and Interactive Filters
 
 ### Key Insights
 
-Customer Behavior
+Customer Behavior:
 
-Non-subscribers generated a significant share of total revenue, indicating strong purchasing activity even without memberships.
+Non-subscribers generated a significant share of total revenue, indicating strong purchasing activity even without memberships. Loyal customers contributed substantially more revenue than new customers.
 
-Loyal customers contributed substantially more revenue than new customers.
+Revenue Analysis:
 
-Revenue Analysis
+Age group consisting of Young Adults consistently contributed the highest revenue. Customers choosing Express Shipping spent more per transaction than those using Standard Shipping.
 
-Certain age groups consistently contributed the highest revenue.
+Product Performance:
 
-Customers choosing Express Shipping spent more per transaction than those using Standard Shipping.
+A small number of products accounted for a large portion of total sales. Top-rated products demonstrated strong customer satisfaction and sales potential.
 
-Product Performance
-
-A small number of products accounted for a large portion of total sales.
-
-Top-rated products demonstrated strong customer satisfaction and sales potential.
-
-Discounts
+Discounts:
 
 Discounts increased purchase volume but should be balanced against profitability.
 
-Subscription Analysis
+Subscription Analysis:
 
-Repeat buyers were more likely to become subscribers, highlighting the value of customer retention strategies.
+Repeat buyers were less likely to become subscribers, highlighting the requirement of customer retention strategies.
 
 
 ### Business Recommendations
 
-1. Increase Customer Retention
+1. Increase Customer Retention:
 
-Expand loyalty programs and personalized rewards for repeat buyers.
+Expand loyalty programs and personalized rewards for repeat buyers. Develop personalized campaigns for Returning and Loyal customers to improve engagement and retention. 
 
-4. Improve Subscription Adoption
+2. Improve Subscription Adoption:
 
-Offer exclusive discounts and benefits to encourage non-subscribers to join membership programs.
+Offer exclusive discounts to encourage non-subscribers to join membership programs and exclusive benefits to subscribers.
 
-6. Focus on High-Performing Products
+3. Focus on High-Performing Products:
 
 Increase inventory and marketing efforts for top-selling and top-rated products.
 
-8. Optimize Discount Strategy
+4. Optimize Discount Strategy:
 
 Use targeted discounts instead of broad promotions to maximize profitability.
 
-10. Promote Express Shipping
+5. Personalize Marketing Campaigns:
 
-Encourage premium shipping options through bundled offers or loyalty benefits.
-
-12. Personalize Marketing Campaigns
-
-Target high-revenue age groups with tailored recommendations and promotions.
-
-14. Enhance Customer Segmentation
-    
-Develop personalized campaigns for New, Returning, and Loyal customers to improve engagement and retention. These recommendations align with the project's documented findings and suggested actions.
+Target high-revenue age groups with tailored recommendations and promotions. 
 
 
 ### How to Run This Project
