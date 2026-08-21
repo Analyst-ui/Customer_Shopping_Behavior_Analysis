@@ -190,44 +190,6 @@ print(f"Data successfully loaded into table '{table_name}' in database '{databas
 #print(f"Data successfully loaded into table '{table_name}' in database '{database}'.")
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
