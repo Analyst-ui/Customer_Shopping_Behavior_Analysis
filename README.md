@@ -1,14 +1,20 @@
 # Customer_Shopping_Behavior_Analysis
 
 
+
+
 ## Customer Shopping Behavior Analysis | SQL, Python & Power BI
 
 An end-to-end Data Analytics project that analyzes customer shopping behavior to uncover purchasing patterns, customer segments, product performance, and revenue insights using Python, PostgreSQL, and Microsoft Power BI.
 
 
+
+
 ### Project Overview
 
 This project focuses on analyzing customer shopping behavior using transactional data to understand spending habits, customer preferences, purchasing frequency, subscription behavior, and product performance. The workflow covers data cleaning in Python, business analysis in PostgreSQL, and interactive dashboard development in Microsoft Power BI to support strategic business decisions.
+
+
 
 
 ### Problem Statement
@@ -31,6 +37,8 @@ What factors influence customer loyalty?
 The goal is to transform raw shopping data into business intelligence that supports marketing, customer retention, and sales optimization.
 
 
+
+
 ### Dataset
 
 The project uses a retail customer shopping dataset containing 3,900 purchase records and 18 features. 
@@ -45,6 +53,8 @@ Purchases, Review Rating, Shipping Type)
 Missing Data: 37 values in Review Rating column
 
 
+
+
 ### Tools & Technologies
 
 Python(Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy)
@@ -54,9 +64,11 @@ SQL (PostgreSQL)
 Microsoft Power BI
 
 
+
+
 ### Methods
 
-1️⃣ Data Cleaning & Preparation (Python):
+1. Data Cleaning & Preparation (Python):
 
 -Imported and explored the dataset
 
@@ -72,7 +84,7 @@ Microsoft Power BI
 
 -Performed database integration by connecting python script to PostgreSQL and loaded the cleaned dataset into PostgreSQL for further analysis.
 
-2️⃣ SQL Business Analysis:
+2. SQL Business Analysis:
 
 Performed SQL queries to answer business questions, including:
 
@@ -96,7 +108,7 @@ Performed SQL queries to answer business questions, including:
 
 -Revenue by Age Group
 
-3️⃣ Dashboard Development (Power BI):
+3. Dashboard Development (Power BI):
 
 Created an interactive dashboard to visualize:
 
@@ -113,6 +125,8 @@ Created an interactive dashboard to visualize:
 -Age Group Analysis
 
 -KPIs and Interactive Filters
+
+
 
 
 ### Key Insights
@@ -138,6 +152,8 @@ Subscription Analysis:
 Repeat buyers were less likely to become subscribers, highlighting the requirement of customer retention strategies.
 
 
+
+
 ### Business Recommendations
 
 1. Increase Customer Retention:
@@ -159,6 +175,8 @@ Use targeted discounts instead of broad promotions to maximize profitability.
 5. Personalize Marketing Campaigns:
 
 Target high-revenue age groups with tailored recommendations and promotions. 
+
+
 
 
 ### How to Run This Project
@@ -198,6 +216,8 @@ Step 8
 Interact with the dashboard using filters and slicers.
 
 
+
+
 ### Results & Conclusion
 
 This project demonstrates a complete end-to-end data analytics workflow using Python, SQL, and Microsoft Power BI.
@@ -219,6 +239,8 @@ The analysis enables businesses to:
 -Support data-driven decision-making
 
 
+
+
 ### Future Work
 
 Build machine learning models for purchase prediction.
@@ -228,14 +250,15 @@ Forecast future sales trends.
 Create recommendation systems for personalized shopping.
 
 
+
+
 ### Author
 
 Nimisha Tripathy | Aspiring Data Analyst
 
+Skills - Python, SQL, Microsoft Power BI,Exploratory Data Analysis (EDA),Excel
 
-##### Skills
 
-Python, SQL, Microsoft Power BI,Exploratory Data Analysis (EDA),Excel
 
 
 ### Contact
